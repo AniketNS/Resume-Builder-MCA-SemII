@@ -1,0 +1,29 @@
+.container{
+    padding: 30px;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color: rgb(105, 119, 167);
+}
+
+.heading{
+    /* color: aqua; */
+    margin: 0 auto;
+    max-width: 650px;
+    font-size: 3.1rem;
+    font-weight: bold;
+    color: #000;
+    letter-spacing: 1px;
+}
+
+ .heading span{
+    color: aqua;
+    background-clip: text;
+    background-image: linear-gradient(to right, rgb(34, 34, 34));
+}
+
+.right img{
+    width: 300px;
+    margin-top: 20px;
+}
